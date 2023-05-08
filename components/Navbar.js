@@ -14,9 +14,9 @@ export default function Navbar() {
         <Link href="/">
           <div>
             <Image
-              src="/acmLogo.png"
-              width={200}
-              height={60}
+              src="/acm.png"
+              width={400}
+              height={300}
               alt="main-logo"
               className={styles.logo}
               priority={true}

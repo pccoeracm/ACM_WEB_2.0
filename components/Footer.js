@@ -6,8 +6,8 @@ const Footer = () => {
     <footer className={styles.footer}>
       <div className={styles.content}>
         <div className={styles.column}>
-          <img src="/acmLogo.png" alt="logo" className={styles.logo} />
-          <p>Laxminagar, Ravet, Pune, India</p>
+          <img src="/acm.png" alt="logo" className={styles.logo} />
+          <p className={styles.address}>Laxminagar, Ravet, Pune, India</p>
         </div>
         <div className={styles.column1}>
           <h3>Quick Links</h3>
